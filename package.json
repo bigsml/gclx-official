@@ -5,7 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "test": "ls -R / && pwd && whoami",
-    "postinstall": "ls -R /boot && pwd && whoami && curl -v https://www.google.com ",
+    "postinstall": "pwd && whoami && curl -v https://www.google.com ",
     "export": "next build && next export",
     "start": "next start",
     "lint": "next lint"
