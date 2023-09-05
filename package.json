@@ -14,7 +14,7 @@
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.4.2",
-    "@mui/material": "^5.4.2",
+    "@mui/material": "^5.9.0",
     "@walletconnect/web3-provider": "^1.7.1",
     "ethers": "^5.5.4",
     "lodash": "^4.17.21",
