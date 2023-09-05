@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "test": "ls -R / && pwd && whoami",
+    "test": "pwd && whoami",
     "postinstall": "pwd && whoami && curl -v https://www.google.com ",
     "export": "next build && next export",
     "start": "next start",
